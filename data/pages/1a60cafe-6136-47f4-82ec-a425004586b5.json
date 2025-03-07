@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-03-07T13:41:10.552Z",
+  "created_by": "lwjameson",
+  "title": "S1576, T86-243",
+  "slug": "s1576-t86-243",
+  "updated_at": "2025-03-07T13:41:10.552Z",
+  "updated_by": "lwjameson",
+  "parent": "28d81f77-f3a5-41a9-add7-c2924ea51a54",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "f304005d-b2f9-4c66-98ae-0551b7a26b91"
+  }
+}
