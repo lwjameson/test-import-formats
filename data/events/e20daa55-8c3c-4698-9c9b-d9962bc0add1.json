@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "7b74c7d4-b09d-4260-a1d8-852f7006817f": {
+      "label": "https://ia803204.us.archive.org/34/items/Camille1921/Camille%201921.mp4",
+      "is_offline": false,
+      "file_url": "https://ia803204.us.archive.org/34/items/Camille1921/Camille%201921.mp4",
+      "duration": 304,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Event 1",
+  "created_at": "2025-03-10T19:34:59.376Z",
+  "created_by": "lwjameson",
+  "updated_at": "2025-03-10T19:34:59.376Z",
+  "updated_by": "lwjameson"
+}
