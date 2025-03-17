@@ -1,5 +1,90 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 715,
+      "end_time": 715,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How's these apostrophe's!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Carita Doggett Corse"
+        }
+      ],
+      "uuid": "f48f79bd-c909-40ae-ade8-8dcc85cdadb2"
+    },
+    {
+      "start_time": 720,
+      "end_time": 720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When is it used?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Carita Doggett Corse"
+        }
+      ],
+      "uuid": "39d04891-7cc2-46a9-ab64-b0823c159049"
+    },
+    {
+      "start_time": 726,
+      "end_time": 726,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What is the fire dance?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Carita Doggett Corse"
+        }
+      ],
+      "uuid": "4be743c4-f774-4eda-ab7e-8b15eb608b30"
+    },
+    {
+      "start_time": 735,
+      "end_time": 735,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And how did you happen to learn it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Carita Doggett Corse"
+        }
+      ],
+      "uuid": "9d4b79df-f635-4033-9eb1-9d522bcbeda0"
+    }
+  ],
   "set": "Default",
   "event_id": "e20daa55-8c3c-4698-9c9b-d9962bc0add1",
   "source_id": "7b74c7d4-b09d-4260-a1d8-852f7006817f"
