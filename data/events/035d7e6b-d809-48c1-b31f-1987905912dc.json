@@ -3,9 +3,10 @@
     "af08f997-e36f-48b6-bbc3-3680d1114f10": {
       "label": "My new file",
       "is_offline": true,
-      "file_url": "Video",
+      "file_url": "",
       "duration": 90,
-      "caption_set": []
+      "caption_set": [],
+      "file_type": "Video"
     }
   },
   "auto_generate_web_page": true,
@@ -24,6 +25,6 @@
   "label": "Event 4",
   "created_at": "2025-03-17T17:58:53.190Z",
   "created_by": "lwjameson",
-  "updated_at": "2025-03-17T17:59:13.364Z",
+  "updated_at": "2025-03-17T17:59:44.816Z",
   "updated_by": "lwjameson"
 }
